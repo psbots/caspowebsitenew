@@ -707,9 +707,9 @@ Features-stack
     .phone-doc--pic {
 
 
-        background: url("../imgs/renders/centerized.37.jpg") no-repeat center center;
+        background: url("../imgs/renders/kitchen new 2.48.jpg") no-repeat center center;
         background-size:cover;
-        background-position: 0 0px;
+        background-position: 0px -100px;
        
   }
 
@@ -723,7 +723,16 @@ Features-stack
        
   }
 
-  
+ 
+
+  .temp-weight--pic {
+
+
+        background: url("../imgs/renders/untitled.52.jpg") no-repeat center center;
+        background-size:cover;
+        background-position: 0 -200px;
+       
+  } 
 
 
 
@@ -999,9 +1008,9 @@ Features-stack
 }
 
 /* ==========================================================================
-.testimonial-slider
+.Image-show-slider
 ========================================================================== */
-.testimonial-slider {
+.image-show-slider {
   background: url('../img/testimonials-bg.jpg') no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -1031,10 +1040,35 @@ Features-stack
     margin: 30px 0;
   }
   p {
-    color: $txt-accent;
+    color: $txt-light;
     text-transform: uppercase;
     letter-spacing: 2px;
   }
+
+  .slider-li {
+
+  height: 600px;
+  padding-top: 170px;
+  }
+
+  .ss1 {
+  background: linear-gradient(rgba(177, 177, 177, 0.7), rgba(64, 64, 64, 0.64)), url("../imgs/4X0A7620.jpg") no-repeat ;
+    background-size: cover;
+    width: 100%;
+  }
+
+  .ss2 {
+  background: linear-gradient(rgba(177, 177, 177, 0.7), rgba(64, 64, 64, 0.64)), url("../imgs/4X0A7786.jpg") no-repeat ;
+    background-size: cover;
+    width: 100%;
+  }
+
+  .ss3 {
+  background: linear-gradient(rgba(177, 177, 177, 0.7), rgba(64, 64, 64, 0.64)), url("../imgs/4X0A7840.jpg") no-repeat ;
+    background-size: cover;
+    width: 100%;
+  }
+
 }
 
 /* ==========================================================================
