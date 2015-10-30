@@ -67,7 +67,7 @@
                 </div>
             </div>
         </div>
-        
+
     </section>
 
     <section class="image-show-slider section-padding text-center">
@@ -119,7 +119,7 @@
         <div class="container">
             <div class="row">
 
-                
+
 
                 <div class="col-md-5 col-md-offset-7">
                     <div class="feature-list">
@@ -137,7 +137,7 @@
         <div class="responsive-feature-img"><img src="imgs/renders/red.243.jpg" alt="responsive devices"></div>
 
 
-        
+
     </section>
 
 
@@ -179,7 +179,7 @@
     </section>
 
 
-    
+
 
     <!---- End Features -->
 
@@ -288,10 +288,10 @@
                                 </div>
                             </div>
 
-                            
+
                     </div>
 
-                
+
 
 
 
@@ -317,7 +317,7 @@
 
                                 </ul>
 
-                                <a href="mobile-ui-display.html" id="mc-embedded-subscribe" class="button btn btn-fill sign-up-btn signup-intro">Learn more</a>
+                                <a href="appshow.php" id="mc-embedded-subscribe" class="button btn btn-fill sign-up-btn signup-intro">Learn more</a>
                             </div>
                         </div>
                     </div>
@@ -355,15 +355,15 @@
         <div class="main-footer">
                     <?php
 
-            //menu-elements 
+            //menu-elements
 
             include('templates/footer_default_credits.php');
 
-        ?> 
+        ?>
         </div>
 
 
-    
+
 
 
 <!--
